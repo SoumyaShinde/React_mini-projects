@@ -1,0 +1,19 @@
+.App {
+  text-align: left;
+  font-family: 'Times New Roman';
+}
+
+.nav{
+  background-color: pink;
+  height: 50px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-items{
+      margin-left: 1%;
+      color: white;
+      font-family: 'Times New Roman';
+      font-size: calc(10px + 2vmin);
+}
